@@ -1,0 +1,15 @@
+package histoire;
+import personnages.Humain;
+public class HistoireTP4 {
+	
+	
+	
+	
+	public static void main(String[] argv) {
+		Humain marco = new Humain("Marco", "thé", 20);
+		marco.direBonjour();
+		marco.acheter("kimono", 21);
+		
+	}
+
+}
