@@ -55,7 +55,7 @@ public class Humain {
 	}
 	
 	
-	protected String parler() {
+	private String parler() {
 		return "("+ nom + ") - ";
 	}
 	
