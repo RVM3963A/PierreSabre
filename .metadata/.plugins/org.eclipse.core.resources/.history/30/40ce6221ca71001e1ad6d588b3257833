@@ -1,0 +1,8 @@
+package personnages.principaux;
+import personnages.Humain;
+public class Yakuza extends Humain{
+
+	
+	
+	
+}

@@ -1,0 +1,19 @@
+package histoire;
+import personnages.Humain;
+import personnages.principaux.Commercant;
+public class HistoireTP4 {
+	
+	
+	
+	
+	public static void main(String[] argv) {
+		Commercant marco = new Commercant("Prof", 54);
+		Yakuza yaku = new Yakuza("Yaku Le Noir", "whiskey", 30, "Warsong");
+		marco.direBonjour();
+		marco.seFaireExtorquer();
+		marco.recevoir(15);
+		marco.boire();
+		
+	}
+
+}
