@@ -1,0 +1,13 @@
+
+Z
+java:S1068"(Remove this unused "clan" private field.(““—±8ãÕöìµ1HHRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¿¤…Ô8Ïò†íµ1HVRMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(½Êá’ÿÿÿÿÿ8‚Îíµ1HQRMAJORZ
+CODE_SMELL
+`
+java:S1068".Remove this unused "reputation" private field.(šª‹8ãÕöìµ1HJRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(©½(8‚Îíµ1HPRMAJORZ
+CODE_SMELL
